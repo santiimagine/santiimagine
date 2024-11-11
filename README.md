@@ -2,16 +2,17 @@
 
 ### <div align="center">I like contemporary things, technologies and connection equipment.</div>
 
-# 💫 About Me:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+
+ 💫 About Me:
 🚀         .<br>
 🌐         .<br>
 📘         .<br>
 🔍         .<br>
 🌟         .<br>
 
-<div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## Tools & Language
 <div align="center">
@@ -20,8 +21,6 @@
 <img  align="center" alt="Amazon Web Service" width="61px" src="https://img.icons8.com/?size=95&id=nTxnreeoeQxh&format=png&color=000000"></a>
 <a style="margin-left: 10px;"  target="_blank" href="https://www.kubernetes.com">
 <img  align="center" alt="Kubernetes"         width="76px" src="https://img.icons8.com/?size=95&id=cvzmaEA4kC0o&format=png&color=000000"></a>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## System Operative
 <div align="center">
@@ -38,7 +37,6 @@
 <a style="margin-left: 10px;"  target="_blank" href="https://www.ios.com">
 <img  align="center" alt="iOS"         width="76px" src="https://img.icons8.com/?size=100&id=20822&format=png&color=22C3E6"></a>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
 ## Check Out My Social Media
@@ -52,6 +50,3 @@
 
 <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/santiagoimaginario/">
 <img src="https://img.icons8.com/?size=90&id=102339&format=png&color=000000"></a>
-
-
-  
