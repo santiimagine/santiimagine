@@ -27,13 +27,13 @@
 <a style="margin-left: 10px;"  target="_blank" href="https:www.microsoft.com">
 <img  align="center" alt="Microsoft Windows" width="61px" src="https://img.icons8.com/?size=100&id=rnDRdafowTuf&format=png&color=000000"></a>
 
-<a style="margin-left: 10px;"  target="_blank" href="    ">
+<a style="margin-left: 10px;"  target="_blank" href="https://ubuntu.com">
 <img  align="center" alt="Ubuntu"         width="76px" src="https://img.icons8.com/?size=100&id=C9ymZjyMhkw3&format=png&color=000000"></a>
 
-<a style="margin-left: 10px;"  target="_blank" href="    ">
+<a style="margin-left: 10px;"  target="_blank" href="https://www.android.com">
 <img  align="center" alt="Android"         width="76px" src="https://img.icons8.com/?size=100&id=85teqgyHVFW4&format=png&color=FFFFFF"></a>
 
-<a style="margin-left: 10px;"  target="_blank" href="    ">
+<a style="margin-left: 10px;"  target="_blank" href="https://www.ios.com">
 <img  align="center" alt="iOS"         width="76px" src="https://img.icons8.com/?size=100&id=20822&format=png&color=22C3E6"></a>
 
 
