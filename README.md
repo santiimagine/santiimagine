@@ -25,9 +25,16 @@
 <div align="center">
 
 <a style="margin-left: 10px;"  target="_blank" href="  ">
-<img  align="center" alt="Amazon Web Service" width="61px" src="   "></a>
+<img  align="center" alt="Windows" width="61px" src="   "></a>
+
 <a style="margin-left: 10px;"  target="_blank" href="    ">
-<img  align="center" alt="Kubernetes"         width="76px" src="   "></a>
+<img  align="center" alt="Linux"         width="76px" src="   "></a>
+
+<a style="margin-left: 10px;"  target="_blank" href="    ">
+<img  align="center" alt="iOS"         width="76px" src="   "></a>
+
+<a style="margin-left: 10px;"  target="_blank" href="    ">
+<img  align="center" alt="Android"         width="76px" src="   "></a>
 
 
 
