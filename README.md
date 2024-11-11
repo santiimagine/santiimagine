@@ -22,6 +22,13 @@
 <img  align="center" alt="Kubernetes"         width="76px" src="https://img.icons8.com/?size=95&id=cvzmaEA4kC0o&format=png&color=000000"></a>
 
 ## System Operative
+<div align="center">
+
+<a style="margin-left: 10px;"  target="_blank" href="  ">
+<img  align="center" alt="Amazon Web Service" width="61px" src="   "></a>
+<a style="margin-left: 10px;"  target="_blank" href="    ">
+<img  align="center" alt="Kubernetes"         width="76px" src="   "></a>
+
 
 
 
