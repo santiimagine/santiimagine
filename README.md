@@ -5,24 +5,21 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXV2Y3gwaWRtdHF6MGRoazZoNmkyNTR2NWNsZHhqOWtmbm42Mm1xZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bUkXxGkGYb5bq/giphy.gif">
+  <img align="right" top="500" height="300" width="500" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXV2Y3gwaWRtdHF6MGRoazZoNmkyNTR2NWNsZHhqOWtmbm42Mm1xZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bUkXxGkGYb5bq/giphy.gif">
 </a>
 
 
+## 💫 About Me:
+🚀         <br>
+🌐         <br>
+📘         <br>
+🔍         <br>
+🌟         <br>
 
-
- 💫 About Me:
-🚀         .<br>
-🌐         .<br>
-📘         .<br>
-🔍         .<br>
-🌟         .<br>
-
-
-
-## Tools & Language
+<br><br><br><br><br><br><br><br>
+## About Me:
+## System Operative
 <div align="center">
-
 <a style="margin-left: 10px;"  target="_blank" href="https://aws.amazon.com/es/">
 <img  align="center" alt="Amazon Web Service" width="61px" src="https://img.icons8.com/?size=95&id=nTxnreeoeQxh&format=png&color=000000"></a>
 <a style="margin-left: 10px;"  target="_blank" href="https://www.kubernetes.com">
