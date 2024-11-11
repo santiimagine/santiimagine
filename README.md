@@ -16,7 +16,7 @@
 ## Tools & Language
 <div align="center">
 
-<a style="margin-left: 10px;"  target="_blank" href="https://https://aws.amazon.com/es/">
+<a style="margin-left: 10px;"  target="_blank" href="https://aws.amazon.com/es/">
 <img  align="center" alt="Amazon Web Service" width="61px" src="https://img.icons8.com/?size=95&id=nTxnreeoeQxh&format=png&color=000000"></a>
 <a style="margin-left: 10px;"  target="_blank" href="https://www.kubernetes.com">
 <img  align="center" alt="Kubernetes"         width="76px" src="https://img.icons8.com/?size=95&id=cvzmaEA4kC0o&format=png&color=000000"></a>
