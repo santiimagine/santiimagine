@@ -27,10 +27,10 @@
 <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/dzenis-h//](https://www.linkedin.com/in/santiagosaitz/">
 <img src="https://img.icons8.com/?size=90&id=67570&format=png&color=000000"></a>
 
-<a style="margin-left: 10px;" target="_blank" href="https://github.com/dzenis-h](https://github.com/santiagosaitz">
+<a style="margin-left: 10px;" target="_blank" href="hhttps://github.com/santiagosaitz">
 <img src="https://img.icons8.com/?size=90&id=iEBcQcM9rnZ9&format=png&color=000000"></a>
 
-<a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/stories/santiagoimaginario/">
+<a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/santiagoimaginario/">
 <img src="https://img.icons8.com/?size=90&id=102339&format=png&color=000000"></a>
 
 
