@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi! I'm Santiago Saitz </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi there! I'm Santiago Saitz </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ### <div align="center">I like contemporary things, technologies and connection equipment.</div>
 
@@ -18,7 +18,7 @@
 
 
 <img  align="center" alt="Amazon Web Service" width="61px" src="https://img.icons8.com/?size=95&id=nTxnreeoeQxh&format=png&color=000000"></a>
-<img  align="center" alt="Kubernetes"         width="61px" src="https://img.icons8.com/?size=95&id=cvzmaEA4kC0o&format=png&color=000000"></a>
+<img  align="center" alt="Kubernetes"         width="76px" src="https://img.icons8.com/?size=95&id=cvzmaEA4kC0o&format=png&color=000000"></a>
 
 ## Check Out My Social Media
 <div align="center">
