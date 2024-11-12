@@ -9,13 +9,11 @@
 
 <br>
 
-- :school: I am a `Junior` at [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
-- :trophy: 
-- :technologist: I love using Software as a solution for every `Problem`.
+- :school: I am a `Junior` at [Faculty of Computers & Informatics] at [Universidad Nacional de Lanús](https://www.unla.edu.ar).
+- :technologist: Since I was little I liked testing software to recognize `Problems`.
 - :computer: 
-- :student: I’m currently learning 
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`.
+- :nerd_face: Always `Learning New Things`.
+- :trophy:  I’m currently open for a new `Job Opportunity`.
 - :boom:
 
 <img style="display: block; margin-top: 5px; margin-bottom: 10px;" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="gif multicolor"><br>
