@@ -29,6 +29,7 @@
 </div>
 
 
+
 <h2 align="center"><b>System Operative</b></h2>
 <div align="center">
   <a style="margin-left: 10px;"  target="_blank" href="https:www.microsoft.com">
@@ -44,6 +45,14 @@
        <img  align="center" alt="iOS"         width="76px" src="https://img.icons8.com/?size=100&id=20822&format=png&color=22C3E6"></a>
   </a>
 </div>
+
+<h2 align="center"><b>Other Tools</b></h2>
+<div align="center">
+
+</div>
+
+
+
 
 
 
