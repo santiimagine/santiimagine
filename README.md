@@ -18,7 +18,7 @@
 
 <img style="display: block; margin-top: 5px; margin-bottom: 10px;" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="gif multicolor"><br>
 
-<h2 align="center"><b>Tools & Language</b></h2>
+<h2 align="center"><b>Tools & Languages</b></h2>
 <div align="center">
   <a style="margin-left: 10px;" target="_blank" href="https://aws.amazon.com/es/">
     <img align="center" alt="Amazon Web Service" width="61px" src="https://img.icons8.com/?size=95&id=nTxnreeoeQxh&format=png&color=000000">
