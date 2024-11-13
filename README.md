@@ -62,7 +62,7 @@
   </a>
    
   <a style="margin-left: 10px;"  target="_blank" href="https://azure.microsoft.com/es-mx/products/devops">
-       <img  align="center" alt="Microsoft Azure Devops"         width="76px" src="https://img.icons8.com/?size=100&id=S4wbdK79E23a&format=png&color=000000"></a>
+       <img  align="center" alt="Microsoft Azure Devops"         width="76px" src="https://img.icons8.com/?size=100&id=WmYhekYvBVbf&format=png&color=000000"></a>
   </a>
 
   <a style="margin-left: 10px;"  target="_blank" href="https://www.atlassian.com/software/jira?referer=jira.com">
