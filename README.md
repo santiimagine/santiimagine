@@ -79,24 +79,3 @@
 
 
 
-
-
-
-<h2 align="center"><b>Check Out My Social Media</b></h2>
-<div align="center">
-  <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/santiagosaitz/">
-	<img src="https://img.icons8.com/?size=90&id=67570&format=png&color=000000"></a>
-  </a> 
-  <a style="margin-left: 10px;" target="_blank" href="hhttps://github.com/santiagosaitz">
-	<img src="https://img.icons8.com/?size=90&id=iEBcQcM9rnZ9&format=png&color=000000"></a>
-  </a>   
-  <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/santiagoimaginario/">
-        <img src="https://img.icons8.com/?size=90&id=102339&format=png&color=000000"></a>
-  </a> 
-</div>
-
-
-
-
-
-
