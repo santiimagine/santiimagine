@@ -60,7 +60,6 @@
   <a style="margin-left: 10px;"  target="_blank" href="https://www.mongodb.com/es">
        <img  align="center" alt="Mongo DB"         width="76px" src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=0000000"></a>
   </a>
-
    
   <a style="margin-left: 10px;"  target="_blank" href="https://azure.microsoft.com/es-mx/products/devops">
        <img  align="center" alt="Microsoft Azure Devops"         width="76px" src="https://img.icons8.com/?size=100&id=S4wbdK79E23a&format=png&color=000000"></a>
@@ -70,11 +69,9 @@
        <img  align="center" alt="Jira"         width="76px" src="https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000"></a>
   </a>
 
-
-
-
-
-
+  <a style="margin-left: 10px;"  target="_blank" href="https://es.wikipedia.org/wiki/C_(lenguaje_de_programación)">
+       <img  align="center" alt="C"         width="76px" src="https://img.icons8.com/?size=100&id=RPpXCmlQq6L4&format=png&color=000000"></a>
+  </a>
 
 
 </div>
