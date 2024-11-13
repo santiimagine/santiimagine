@@ -49,6 +49,28 @@
 <h2 align="center"><b>Other Tools</b></h2>
 <div align="center">
 
+  <a style="margin-left: 10px;"  target="_blank" href="https://www.microsoft.com/es-es/power-platform/products/power-bi">
+       <img  align="center" alt="Power Bi"         width="76px" src="https://img.icons8.com/?size=100&id=70667&format=png&color=000000"></a>
+  </a>
+  
+  <a style="margin-left: 10px;"  target="_blank" href="https://visualstudio.microsoft.com/es/">
+       <img  align="center" alt="Visual Studio Code"         width="76px" src="https://img.icons8.com/?size=100&id=v05jsvW3RprR&format=png&color=000000"></a>
+  </a>
+
+  <a style="margin-left: 10px;"  target="_blank" href="https://www.mongodb.com/es">
+       <img  align="center" alt="Mongo DB"         width="76px" src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=0000000"></a>
+  </a>
+
+   
+  <a style="margin-left: 10px;"  target="_blank" href="https://azure.microsoft.com/es-mx/products/devops">
+       <img  align="center" alt="Microsoft Azure Devops"         width="76px" src="https://img.icons8.com/?size=100&id=S4wbdK79E23a&format=png&color=000000"></a>
+  </a>
+
+
+
+
+
+
 </div>
 
 
