@@ -21,10 +21,10 @@
 <h2 align="center"><b>Tools & Languages</b></h2>
 <div align="center">
   <a style="margin-left: 10px;" target="_blank" href="https://aws.amazon.com/es/">
-    <img align="center" alt="Amazon Web Service" width="61px" src="https://img.icons8.com/?size=95&id=nTxnreeoeQxh&format=png&color=000000">
+    <img align="center" alt="Amazon Web Service" width="72px" src="https://img.icons8.com/?size=95&id=nTxnreeoeQxh&format=png&color=000000">
   </a>
   <a style="margin-left: 10px;" target="_blank" href="https://www.kubernetes.com">
-    <img align="center" alt="Kubernetes" width="76px" src="https://img.icons8.com/?size=95&id=cvzmaEA4kC0o&format=png&color=000000">
+    <img align="center" alt="Kubernetes" width="84px" src="https://img.icons8.com/?size=95&id=cvzmaEA4kC0o&format=png&color=000000">
   </a>
 </div>
 
@@ -65,6 +65,12 @@
   <a style="margin-left: 10px;"  target="_blank" href="https://azure.microsoft.com/es-mx/products/devops">
        <img  align="center" alt="Microsoft Azure Devops"         width="76px" src="https://img.icons8.com/?size=100&id=S4wbdK79E23a&format=png&color=000000"></a>
   </a>
+
+  <a style="margin-left: 10px;"  target="_blank" href="https://www.atlassian.com/software/jira?referer=jira.com">
+       <img  align="center" alt="Jira"         width="76px" src="https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000"></a>
+  </a>
+
+
 
 
 
