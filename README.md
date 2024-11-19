@@ -32,6 +32,30 @@
        <img  align="center" alt="C"         width="76px" src="https://img.icons8.com/?size=100&id=RPpXCmlQq6L4&format=png&color=000000"></a>
   </a>
 
+   <a style="margin-left: 10px;"  target="_blank" href="https://www.atlassian.com/software/jira?referer=jira.com">
+       <img  align="center" alt="Jira"         width="76px" src="https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000"></a>
+
+
+  <a style="margin-left: 10px;"  target="_blank" href="https://www.terraform.io">
+       <img  align="center" alt="Terrafont"         width="76px" src="https://img.icons8.com/?size=100&id=kEkT1u7zTDk5&format=png&color=000000"></a>
+
+  </a>
+
+   <a style="margin-left: 10px;"  target="_blank" href="https://www.atlassian.com/software/jira?referer=jira.com">
+       <img  align="center" alt="Jira"         width="76px" src="https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000"></a>
+
+
+ https://img.icons8.com/?size=100&id=kEkT1u7zTDk5&format=png&color=000000
+
+  </a>
+
+
+
+ https://img.icons8.com/?size=100&id=kEkT1u7zTDk5&format=png&color=000000
+
+
+  
+
 </div>
 
 
@@ -74,6 +98,15 @@
   <a style="margin-left: 10px;"  target="_blank" href="https://www.atlassian.com/software/jira?referer=jira.com">
        <img  align="center" alt="Jira"         width="76px" src="https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000"></a>
   </a>
+
+  <a style="margin-left: 10px;"  target="_blank" href="https://www.atlassian.com/software/jira?referer=jira.com">
+       <img  align="center" alt="Jira"         width="76px" src="https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000"></a>
+  </a>
+
+
+
+ https://img.icons8.com/?size=100&id=kEkT1u7zTDk5&format=png&color=000000
+
 
 </div>
 
