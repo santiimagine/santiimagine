@@ -87,8 +87,11 @@
 
 
 
- 
-### <div align="center">¡Connect With Me!</div>
+
+##  <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZkZnNocHN1azFkazhkbHQ5b2swbWd4OWJ3OWNtNWd1ZTYycnZudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/faWsfcwkzbfZQ3HOac/giphy.gif" width = 32px>  ¡Connect With Me!:
+
+
+
 
 
 <div align="center">
