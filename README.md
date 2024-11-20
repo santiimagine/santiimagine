@@ -9,12 +9,12 @@
 
 <br>
 
-- :school: I am a `Junior` at [Faculty of Computers & Informatics] at [Universidad Nacional de Lanús](https://www.unla.edu.ar).
-- :technologist: Since I was little I liked testing software to recognize `Problems`.
-- :pin: Fromn Buenos Aires, Argentina
-- :nerd_face: Always `Learning New Things`.
-- :trophy:  I’m currently open for a new `Job Opportunity`.
-- :boom:
+- 🏫: I am a `Junior` at [Faculty of Computers & Informatics] at [Universidad Nacional de Lanús](https://www.unla.edu.ar).
+- 👨‍💻: Since I was little I liked testing software to recognize `Problems`.
+- 📍: From `Buenos Aires, Argentina`
+- 🤓: Always `Learning New Things`.
+- 🏆:  I’m currently open for a new `Job Opportunity`.
+- 💬: I really enjoy `communication` and `teamwork`.
 
 <img style="display: block; margin-top: 5px; margin-bottom: 10px;" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="gif multicolor">
 
@@ -122,6 +122,3 @@
 <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=A084DC&logoColor=white&labelColor=&style=for-the-badge" alt="email"/>
 </a>
 </div>
-
-
-
