@@ -5,7 +5,7 @@
 	
 ## 💫 About Me:
 
-<picture> <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHVrdGh1NjhxMHhzNXZndW14a3EzNHVkaTR2YWcxNmlwcGYydG1sNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bUkXxGkGYb5bq/giphy.gif" width = 400px></picture>
+<picture> <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnE2dmZyeWxsZmY1OWYwNTl5aHowNjNnYnA1N211c29nNGdpbTkzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SVCSsoKU5v6ZJLk07n/giphy.gif" width = 400px></picture>
 
 <br>
 
