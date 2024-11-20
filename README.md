@@ -87,10 +87,8 @@
 
 
 
- ### <div align="center"> ¡Connect With Me!  </div> ###
- <h2 align="center"><b>¡Connect With Me! </b></h2>
  
-
+### <div align="center">¡Connect With Me!</div>
 
 
 <div align="center">
@@ -110,10 +108,8 @@
 <img src=https://img.shields.io/badge/youtube-%ff5851db.svg?color=red&style=for-the-badge&logo=youtube&logoColor=white alt=Youtube style="margin-bottom: 5px;" />
 </a>
 
-  <a href="santiagosaitzt@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=A084DC&logoColor=white&labelColor=&style=for-the-badge" alt="email"/>
-    </a>
-
-
+ <a href="santiagosaitzt@gmail.com" target="_blank">
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=A084DC&logoColor=white&labelColor=&style=for-the-badge" alt="email"/>
+</a>
 
 
