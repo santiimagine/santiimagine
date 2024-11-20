@@ -108,6 +108,11 @@
 <img src=https://img.shields.io/badge/youtube-%ff5851db.svg?color=red&style=for-the-badge&logo=youtube&logoColor=white alt=Youtube style="margin-bottom: 5px;" />
 </a>
 
+<a href="https://github.com/santiagosaitz target="_blank">
+<img src=https://img.shields.io/badge/github-%ff5851db.svg?color=black&style=for-the-badge&logo=github&logoColor=whit ealt=GitHub style="margin-bottom: 5px;" />
+</a>
+
+
  <a href="mailto:santiagosaitz@gmail.com" target="_blank">
 <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=A084DC&logoColor=white&labelColor=&style=for-the-badge" alt="email"/>
 </a>
