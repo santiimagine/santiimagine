@@ -108,7 +108,7 @@
 <img src=https://img.shields.io/badge/youtube-%ff5851db.svg?color=red&style=for-the-badge&logo=youtube&logoColor=white alt=Youtube style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://github.com/santiagosaitz target="_blank">
+<a href="https://github.com/santiagosaitz" target="_blank">
 <img src=https://img.shields.io/badge/github-%ff5851db.svg?color=black&style=for-the-badge&logo=github&logoColor=whit ealt=GitHub style="margin-bottom: 5px;" />
 </a>
 
