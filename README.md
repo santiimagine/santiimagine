@@ -83,38 +83,30 @@
 </div>
 
 <br>
+
 <img style="display: block; margin-top: 5px; margin-bottom: 10px;" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="gif multicolor">
-
-
 
 ### <div align="center">📧 ¡Connect with me! 📧 </div>
 
-
-
-
-
-
-
-
 <div align="center">
 <a href="https://www.linkedin.com/in/santiagosaitz/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=Linkedin style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://instagram.com/santiagoimaginario" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=Instagram style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt=Instagram style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://tidal.com/browse/user/194392298" target="_blank">
-<img src=https://img.shields.io/badge/tidal-%ff5851db.svg?color=0A0A0A&style=for-the-badge&logo=tidal&logoColor=white alt=Tidal style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/tidal-%ff5851db.svg?color=0A0A0A&style=for-the-badge&logo=tidal&logoColor=white" alt=Tidal style="margin-bottom: 5px;"/>
 </a>
 
 <a href="https://www.youtube.com/@santiagoimaginario" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%ff5851db.svg?color=red&style=for-the-badge&logo=youtube&logoColor=white alt=Youtube style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/youtube-%ff5851db.svg?color=red&style=for-the-badge&logo=youtube&logoColor=white" alt=Youtube style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://github.com/santiagosaitz" target="_blank">
-<img src=https://img.shields.io/badge/github-%ff5851db.svg?color=black&style=for-the-badge&logo=github&logoColor=whit ealt=GitHub style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/github-%ff5851db.svg?color=black&style=for-the-badge&logo=github&logoColor=white" ealt=GitHub style="margin-bottom: 5px;" />
 </a>
 
 
