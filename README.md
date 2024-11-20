@@ -105,7 +105,7 @@
 </a>
 
 <a href="https://www.youtube.com/@santiagoimaginario" target="_blank">
-<img src=https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white alt=Youtube style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/youtube-%ff5851db.svg?color=red&style=for-the-badge&logo=youtube&logoColor=white alt=Youtube style="margin-bottom: 5px;" />
 </a>
 
 
