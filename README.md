@@ -99,8 +99,9 @@
 <a href="https://instagram.com/santiagoimaginario" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=Instagram style="margin-bottom: 5px;" />
 </a>
+
 <a href="https://tidal.com/browse/user/194392298" target="_blank">
-<img src=https://img.shields.io/badge/Tidal-000000?logo=Tidal&logoColor=white alt=Tidal style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/tidal-%ff5851db.svg?color=0A0A0A&style=for-the-badge&logo=tidal&logoColor=white alt=Tidal style="margin-bottom: 5px;" />
 </a>
 
 
