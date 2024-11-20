@@ -11,7 +11,7 @@
 
 - :school: I am a `Junior` at [Faculty of Computers & Informatics] at [Universidad Nacional de Lanús](https://www.unla.edu.ar).
 - :technologist: Since I was little I liked testing software to recognize `Problems`.
-- :computer: 
+- :pin: Fromn Buenos Aires, Argentina
 - :nerd_face: Always `Learning New Things`.
 - :trophy:  I’m currently open for a new `Job Opportunity`.
 - :boom:
