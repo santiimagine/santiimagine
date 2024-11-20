@@ -84,7 +84,10 @@
 
 <br>
 <img style="display: block; margin-top: 5px; margin-bottom: 10px;" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="gif multicolor">
-<br>
+
+ ### <div align="center">Connect With Me! </div> ###
+
+
 
 <div align="center">
 <a href="https://www.linkedin.com/in/santiagosaitz/" target="_blank">
