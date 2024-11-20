@@ -87,8 +87,10 @@
 
 
 
+### <div align="center"> ¡Connect with me!  </div>
 
-##  <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZkZnNocHN1azFkazhkbHQ5b2swbWd4OWJ3OWNtNWd1ZTYycnZudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/faWsfcwkzbfZQ3HOac/giphy.gif" width = 32px>  ¡Connect With Me!:
+
+
 
 
 
@@ -119,5 +121,7 @@
  <a href="mailto:santiagosaitz@gmail.com" target="_blank">
 <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=A084DC&logoColor=white&labelColor=&style=for-the-badge" alt="email"/>
 </a>
+</div>
+
 
 
