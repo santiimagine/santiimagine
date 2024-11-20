@@ -40,9 +40,9 @@
   <a style="margin-left: 10px;"  target="_blank" href="https://www.terraform.io">
        <img  align="center" alt="Terrafont"         width="76px" src="https://img.icons8.com/?size=100&id=kEkT1u7zTDk5&format=png&color=000000"></a>
 
-
-
   </a>
+
+  
 
 
 
@@ -88,6 +88,21 @@
        <img  align="center" alt="Jira"         width="76px" src="https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000"></a>
 
 </div>
+
+<br>
+<br>
+
+<a href="https://www.linkedin.com/in/santiagosaitz/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://instagram.com/santiagoimaginario" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=Instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://tidal.com/browse/user/194392298" target="_blank">
+<img src=https://img.shields.io/badge/Tidal-000000?logo=Tidal&logoColor=white alt=Tidal style="margin-bottom: 5px;" />
+</a>
+
 
 
 
