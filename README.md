@@ -104,6 +104,11 @@
 <img src=https://img.shields.io/badge/tidal-%ff5851db.svg?color=0A0A0A&style=for-the-badge&logo=tidal&logoColor=white alt=Tidal style="margin-bottom: 5px;" />
 </a>
 
+<a href="https://www.youtube.com/@santiagoimaginario" target="_blank">
+<img src=https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white alt=Youtube style="margin-bottom: 5px;" />
+</a>
+
+
 
 
 
