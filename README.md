@@ -3,7 +3,7 @@
 ### <div align="center">I like contemporary things, technologies and connection equipment.</div>
 
 	
-## 💫 About Me:
+##  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>  About Me:
 
 <picture> <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnE2dmZyeWxsZmY1OWYwNTl5aHowNjNnYnA1N211c29nNGdpbTkzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SVCSsoKU5v6ZJLk07n/giphy.gif" width = 490px></picture>
 
@@ -108,7 +108,7 @@
 <img src=https://img.shields.io/badge/youtube-%ff5851db.svg?color=red&style=for-the-badge&logo=youtube&logoColor=white alt=Youtube style="margin-bottom: 5px;" />
 </a>
 
- <a href="santiagosaitz@gmail.com" target="_blank">
+ <a href="mailto:santiagosaitz@gmail.com" target="_blank">
 <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=A084DC&logoColor=white&labelColor=&style=for-the-badge" alt="email"/>
 </a>
 
