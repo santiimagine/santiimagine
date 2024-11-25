@@ -37,11 +37,6 @@
        <img  align="center" alt="Microsoft Azure Devops"         width="76px" src="https://img.icons8.com/?size=100&id=WmYhekYvBVbf&format=png&color=000000"></a>
   </a>
 
-  <a style="margin-left: 10px;"  target="_blank" href="https://www.terraform.io">
-       <img  align="center" alt="Terrafont"         width="76px" src="https://img.icons8.com/?size=100&id=kEkT1u7zTDk5&format=png&color=000000"></a>
-
-  </a>
-
 </div>
 
 
