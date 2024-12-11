@@ -10,12 +10,12 @@
 <br>
 
 - 🏫: I am a `Junior`at [Faculty of Computers & Informatics] at [Universidad Nacional de Lanús](https://www.unla.edu.ar)
-- 👨‍💻: Since I was little I liked testing software to recognize `Problems`
-- 📍: From `Buenos Aires, Argentina`
-- 🤓: Always `Learning New Things`
-- 🏆:  I’m currently open for a new `Job Opportunity`
-- 💬: I really enjoy `communication` and `teamwork`
-- 💘: I'm `passionate` music & plants
+- 👨‍💻: Since I was little I liked testing software to recognize`Problems`
+- 📍: From`Buenos Aires, Argentina`
+- 🤓: Always`Learning New Things`
+- 🏆:  I’m currently open for a new`Job Opportunity`
+- 💬: I really enjoy`communication`and`teamwork`
+- 💘: I'm`passionate`music & plants
 
 <img style="display: block; margin-top: 5px; margin-bottom: 10px;" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="gif multicolor">
 
