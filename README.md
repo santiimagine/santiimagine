@@ -97,6 +97,10 @@
 <img src="https://img.shields.io/badge/tidal-%ff5851db.svg?color=0A0A0A&style=for-the-badge&logo=tidal&logoColor=white" alt=Tidal style="margin-bottom: 5px;"/>
 </a>
 
+<a href="https://www.behance.net/santiagosaitz" target="_blank">
+<img src="https://img.shields.io/badge/behance-%ff5851db.svg?color=blue&style=for-the-badge&logo=behance&logoColor=white" alt=Behance style="margin-bottom: 5px;"/>
+</a>
+
 <a href="https://www.youtube.com/@santiagoimaginario" target="_blank">
 <img src="https://img.shields.io/badge/youtube-%ff5851db.svg?color=red&style=for-the-badge&logo=youtube&logoColor=white" alt=Youtube style="margin-bottom: 5px;" />
 </a>
