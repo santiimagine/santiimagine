@@ -23,7 +23,7 @@
 <div align="center">
 
   <a style="margin-left: 10px;"  target="_blank" href="https://azure.microsoft.com/es-mx/products/devops">
-       <img  align="center" alt="Microsoft Azure Devops"         width="76px" src="https://img.icons8.com/?size=100&id=WmYhekYvBVbf&format=png&color=000000"></a>
+       <img  align="center" alt="Microsoft Azure Devops"   width="76px" src="https://img.icons8.com/?size=100&id=WmYhekYvBVbf&format=png&color=000000"></a>
   </a>	
 
 
@@ -36,7 +36,7 @@
   </a>
 
 
-  <a style="margin-left: 10px;"  target="_blank" href="https://es.wikipedia.org/wiki/C_(lenguaje_de_programación)](https://es.wikipedia.org/wiki/Go_(lenguaje_de_programación">
+  <a style="margin-left: 10px;"  target="_blank" href="https://es.wikipedia.org/wiki/Go_(lenguaje_de_programación">
        <img  align="center" alt="GO"         width="76px" src="https://img.icons8.com/?size=100&id=51957&format=png&color=000000"></a>
   </a>
 
