@@ -32,12 +32,12 @@
   </a>
 
 <a style="margin-left: 10px;"  target="_blank" href="https://es.wikipedia.org/wiki/C_Sharp">
-       <img  align="center" alt="C#"   width="76px"src="https://img.icons8.com/?size=100&id=55205&format=png&color=000000"></a>
+       <img  align="center" alt="C#"   width="76px"src="https://img.icons8.com/?size=100&id=55199&format=png&color=000000"></a>
   </a>
 
 
   <a style="margin-left: 10px;"  target="_blank" href="https://es.wikipedia.org/wiki/Go_(lenguaje_de_programación)">
-       <img  align="center" alt="GO"     width="76px" src="https://img.icons8.com/?size=100&id=51957&format=png&color=000000"></a>
+       <img  align="center" alt="GO"     width="76px" src="https://img.icons8.com/?size=100&id=63260&format=png&color=000000"></a>
   </a>
 
 
