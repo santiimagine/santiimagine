@@ -82,6 +82,10 @@
    <a style="margin-left: 10px;"  target="_blank" href="https://www.atlassian.com/software/jira?referer=jira.com">
        <img  align="center" alt="Jira"         width="76px" src="https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000"></a>
 
+ <a style="margin-left: 10px;"  target="_blank" href="https://www.atlassian.com/software/jira?referer=jira.com">
+       <img  align="center" alt="Mirosoft SQL"         width="76px" src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000"></a>
+
+
 </div>
 
 <br>
