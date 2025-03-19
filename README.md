@@ -21,16 +21,28 @@
 
 <h2 align="center"><b>Tools & Languages</b></h2>
 <div align="center">
-	
+
+  <a style="margin-left: 10px;"  target="_blank" href="https://azure.microsoft.com/es-mx/products/devops">
+       <img  align="center" alt="Microsoft Azure Devops"         width="76px" src="https://img.icons8.com/?size=100&id=WmYhekYvBVbf&format=png&color=000000"></a>
+  </a>	
+
 
    <a style="margin-left: 10px;"  target="_blank" href="https://es.wikipedia.org/wiki/C_(lenguaje_de_programación)">
        <img  align="center" alt="C"         width="76px" src="https://img.icons8.com/?size=100&id=RPpXCmlQq6L4&format=png&color=000000"></a>
   </a>
 
-
-  <a style="margin-left: 10px;"  target="_blank" href="https://azure.microsoft.com/es-mx/products/devops">
-       <img  align="center" alt="Microsoft Azure Devops"         width="76px" src="https://img.icons8.com/?size=100&id=WmYhekYvBVbf&format=png&color=000000"></a>
+<a style="margin-left: 10px;"  target="_blank" href="https://es.wikipedia.org/wiki/C_Sharp">
+       <img  align="center" alt="C#"         width="76px" src="https://img.icons8.com/?size=100&id=55205&format=png&color=000000"></a>
   </a>
+
+
+  <a style="margin-left: 10px;"  target="_blank" href="https://es.wikipedia.org/wiki/C_(lenguaje_de_programación)](https://es.wikipedia.org/wiki/Go_(lenguaje_de_programación">
+       <img  align="center" alt="GO"         width="76px" src="https://img.icons8.com/?size=100&id=51957&format=png&color=000000"></a>
+  </a>
+
+
+
+
 
 </div>
 
