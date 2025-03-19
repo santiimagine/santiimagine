@@ -28,11 +28,11 @@
 
 
    <a style="margin-left: 10px;"  target="_blank" href="https://es.wikipedia.org/wiki/C_(lenguaje_de_programación)">
-       <img  align="center" alt="C"         width="76px" src="https://img.icons8.com/?size=100&id=RPpXCmlQq6L4&format=png&color=000000"></a>
+       <img  align="center" alt="C"         width="76px" src="https://img.icons8.com/?size=100&id=x22MjKn8Z5C7&format=png&color=000000"></a>
   </a>
 
 <a style="margin-left: 10px;"  target="_blank" href="https://es.wikipedia.org/wiki/C_Sharp">
-       <img  align="center" alt="C#"   width="76px"src="https://img.icons8.com/?size=100&id=55199&format=png&color=000000"></a>
+       <img  align="center" alt="C#"   width="76px"src="https://img.icons8.com/?size=100&id=59966&format=png&color=000000"></a>
   </a>
 
 
