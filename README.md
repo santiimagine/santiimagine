@@ -40,6 +40,12 @@
        <img  align="center" alt="GO"     width="76px" src="https://img.icons8.com/?size=100&id=63260&format=png&color=000000"></a>
   </a>
 
+  <a style="margin-left: 10px;"  target="_blank" href="https://www.rust-lang.org">
+       <img  align="center" alt="Rust"     width="76px" src="https://img.icons8.com/?size=100&id=SGcH4A7JxPxI&format=png&color=000000"></a>
+  </a>
+
+
+
 
 
 
