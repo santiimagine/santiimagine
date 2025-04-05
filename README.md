@@ -19,13 +19,8 @@
 
 <img style="display: block; margin-top: 5px; margin-bottom: 10px;" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="gif multicolor">
 
-<h2 align="center"><b>Tools & Languages</b></h2>
+<h2 align="center"><b>Languages</b></h2>
 <div align="center">
-
-  <a style="margin-left: 10px;"  target="_blank" href="https://azure.microsoft.com/es-mx/products/devops">
-       <img  align="center" alt="Microsoft Azure Devops"   width="76px" src="https://img.icons8.com/?size=100&id=WmYhekYvBVbf&format=png&color=000000"></a>
-  </a>	
-
 
    <a style="margin-left: 10px;"  target="_blank" href="https://es.wikipedia.org/wiki/C_(lenguaje_de_programación)">
        <img  align="center" alt="C"         width="76px" src="https://img.icons8.com/?size=100&id=x22MjKn8Z5C7&format=png&color=000000"></a>
@@ -45,12 +40,21 @@
   </a>
 
 
+</div>
 
+<h2 align="center"><b>Tools</b></h2>
+<div align="center">
 
+  <a style="margin-left: 10px;"  target="_blank" href="https://visualstudio.microsoft.com/es/">
+       <img  align="center" alt="Visual Studio Code"         width="76px" src="https://img.icons8.com/?size=100&id=v05jsvW3RprR&format=png&color=000000"></a>
+  </a>
 
-
+<a style="margin-left: 10px;"  target="_blank" href="https://azure.microsoft.com/es-mx/products/devops">
+       <img  align="center" alt="Microsoft Azure Devops"   width="76px" src="https://img.icons8.com/?size=100&id=WmYhekYvBVbf&format=png&color=000000"></a>
+  </a>	
 
 </div>
+
 
 
 
@@ -77,9 +81,6 @@
        <img  align="center" alt="Power Bi"         width="76px" src="https://img.icons8.com/?size=100&id=70667&format=png&color=000000"></a>
   </a>
   
-  <a style="margin-left: 10px;"  target="_blank" href="https://visualstudio.microsoft.com/es/">
-       <img  align="center" alt="Visual Studio Code"         width="76px" src="https://img.icons8.com/?size=100&id=v05jsvW3RprR&format=png&color=000000"></a>
-  </a>
 
   <a style="margin-left: 10px;"  target="_blank" href="https://www.mongodb.com/es">
        <img  align="center" alt="Mongo DB"         width="76px" src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=0000000"></a>
