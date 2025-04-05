@@ -74,7 +74,7 @@
   </a>
 </div>
 
-<h2 align="center"><b>Other Tools</b></h2>
+<h2 align="center"><b>Others</b></h2>
 <div align="center">
 
   <a style="margin-left: 10px;"  target="_blank" href="https://www.microsoft.com/es-es/power-platform/products/power-bi">
