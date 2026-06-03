@@ -110,7 +110,7 @@
 <img src="https://img.shields.io/badge/tidal-%ff5851db.svg?color=0A0A0A&style=for-the-badge&logo=tidal&logoColor=white" alt=Tidal style="margin-bottom: 5px;"/>
 </a>
 
-<a href="https://www.youtube.com/@ssantiagosaitz" target="_blank">
+<a href="https://www.youtube.com/@santiagosaitz" target="_blank">
 <img src="https://img.shields.io/badge/youtube-%ff5851db.svg?color=red&style=for-the-badge&logo=youtube&logoColor=white" alt=Youtube style="margin-bottom: 5px;" />
 </a>
 
