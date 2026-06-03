@@ -102,7 +102,7 @@
 <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=Linkedin style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://instagram.com/santiagoimaginario" target="_blank">
+<a href="https://instagram.com/santiagosaitz_" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt=Instagram style="margin-bottom: 5px;" />
 </a>
 
@@ -110,13 +110,10 @@
 <img src="https://img.shields.io/badge/tidal-%ff5851db.svg?color=0A0A0A&style=for-the-badge&logo=tidal&logoColor=white" alt=Tidal style="margin-bottom: 5px;"/>
 </a>
 
-<a href="https://www.youtube.com/@santiagoimaginario" target="_blank">
+<a href="https://www.youtube.com/@ssantiagosaitz" target="_blank">
 <img src="https://img.shields.io/badge/youtube-%ff5851db.svg?color=red&style=for-the-badge&logo=youtube&logoColor=white" alt=Youtube style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://github.com/santiagosaitz" target="_blank">
-<img src="https://img.shields.io/badge/github-%ff5851db.svg?color=black&style=for-the-badge&logo=github&logoColor=white" ealt=GitHub style="margin-bottom: 5px;" />
-</a>
 
  <a href="mailto:santiagosaitz@gmail.com" target="_blank">
 <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=A084DC&logoColor=white&labelColor=&style=for-the-badge" alt="email"/>
