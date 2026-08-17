@@ -34,8 +34,7 @@
   <a style="margin-left: 10px;"  target="_blank" href="https://es.wikipedia.org/wiki/Kotlin_(lenguaje_de_programación)">
        <img  align="center" alt="Kotlin"     width="76px" src="https://img.icons8.com/?size=100&id=ZoxjA0jZDdFZ&format=png&color=000000"></a>
   </a>
-
-
+  
 </div>
 
 <h2 align="center"><b>Tools</b></h2>
@@ -48,7 +47,15 @@
 <a style="margin-left: 10px;"  target="_blank" href="https://azure.microsoft.com/es-mx/products/devops">
        <img  align="center" alt="Microsoft Azure Devops"   width="76px" src="https://img.icons8.com/?size=100&id=WmYhekYvBVbf&format=png&color=000000"></a>
   </a>	
+     <a style="margin-left: 10px;"  target="_blank" href="https://www.atlassian.com/software/jira?referer=jira.com](https://en.wikipedia.org/wiki/Azure_DevOps)">
+       <img  align="center" alt="Azure Devops"         width="76px" src="https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000"></a>
 
+ <a style="margin-left: 10px;"  target="_blank" href="https://www.atlassian.com/software/jira?referer=jira.com">
+       <img  align="center" alt="Jira"         width="76px" src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000"></a>
+  <a style="margin-left: 10px;"  target="_blank" href="https://www.microsoft.com/es-es/power-platform/products/power-bi">
+       <img  align="center" alt="Power Bi"         width="76px" src="https://img.icons8.com/?size=100&id=70667&format=png&color=000000"></a>
+  </a>
+  
 </div>
 
 
@@ -66,7 +73,13 @@
   <a style="margin-left: 10px;"  target="_blank" href="https://www.ios.com">
        <img  align="center" alt="iOS"         width="76px" src="https://img.icons8.com/?size=100&id=20822&format=png&color=22C3E6"></a>
   </a>
+
+
+	
 </div>
+
+
+
 
 
 
@@ -83,6 +96,11 @@
     <img align="center" alt="MySqlWorkbench" width="76px" src="https://img.icons8.com/?size=100&id=hYoELNwniGhi&format=png&color=000000">
   </a>
   <a style="margin-left: 10px;" target="_blank" href="https://www.mongodb.com/es">
+
+</div>
+
+
+
 
 
 <br>
