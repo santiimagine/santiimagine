@@ -76,6 +76,7 @@
   <a style="margin-left: 10px;"  target="_blank" href="https://www.microsoft.com/es-es/power-platform/products/power-bi">
        <img  align="center" alt="Power Bi"         width="76px" src="https://img.icons8.com/?size=100&id=70667&format=png&color=000000"></a>
   </a>
+
   
 
   <a style="margin-left: 10px;"  target="_blank" href="https://www.mongodb.com/es">
@@ -87,6 +88,13 @@
 
  <a style="margin-left: 10px;"  target="_blank" href="https://www.atlassian.com/software/jira?referer=jira.com">
        <img  align="center" alt="Mirosoft SQL"         width="76px" src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000"></a>
+
+
+
+
+
+
+
 
 
 </div>
