@@ -27,12 +27,12 @@
   </a>
 
    <a style="margin-left: 10px;"  target="_blank" href="https://es.wikipedia.org/wiki/Java_(lenguaje_de_programación)">
-       <img  align="center" alt="C"         width="76px" src="https://img.icons8.com/?size=100&id=FBycNmdwUQz1&format=png&color=000000"></a>
+       <img  align="center" alt="Java"         width="76px" src="https://img.icons8.com/?size=100&id=FBycNmdwUQz1&format=png&color=000000"></a>
   </a>
 
 
   <a style="margin-left: 10px;"  target="_blank" href="https://es.wikipedia.org/wiki/Kotlin_(lenguaje_de_programación)">
-       <img  align="center" alt="GO"     width="76px" src="https://img.icons8.com/?size=100&id=ZoxjA0jZDdFZ&format=png&color=000000"></a>
+       <img  align="center" alt="Kotlin"     width="76px" src="https://img.icons8.com/?size=100&id=ZoxjA0jZDdFZ&format=png&color=000000"></a>
   </a>
 
 
@@ -52,8 +52,6 @@
 </div>
 
 
-
-
 <h2 align="center"><b>System Operative</b></h2>
 <div align="center">
   <a style="margin-left: 10px;"  target="_blank" href="https:www.microsoft.com">
@@ -70,34 +68,22 @@
   </a>
 </div>
 
-<h2 align="center"><b>Others</b></h2>
+
+
+<h2 align="center"><b>Devops</b></h2>
 <div align="center">
-
-  <a style="margin-left: 10px;"  target="_blank" href="https://www.microsoft.com/es-es/power-platform/products/power-bi">
-       <img  align="center" alt="Power Bi"         width="76px" src="https://img.icons8.com/?size=100&id=70667&format=png&color=000000"></a>
+  <a style="margin-left: 10px;" target="_blank" href="https://es.wikipedia.org/wiki/Docker_(software)">
+    <img align="center" alt="Docker" width="76px" src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000">
   </a>
-
-  
-
-  <a style="margin-left: 10px;"  target="_blank" href="https://www.mongodb.com/es">
-       <img  align="center" alt="Mongo DB"         width="76px" src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=0000000"></a>
-  </a>
-   
-   <a style="margin-left: 10px;"  target="_blank" href="https://www.atlassian.com/software/jira?referer=jira.com">
-       <img  align="center" alt="Jira"         width="76px" src="https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000"></a>
-
- <a style="margin-left: 10px;"  target="_blank" href="https://www.atlassian.com/software/jira?referer=jira.com">
-       <img  align="center" alt="Mirosoft SQL"         width="76px" src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000"></a>
-
-
-
-
-
-
-
-
-
 </div>
+
+<h2 align="center"><b>Data Bases</b></h2>
+<div align="center">
+  <a style="margin-left: 10px;" target="_blank" href="https://es.wikipedia.org/wiki/MySQL_Workbench">
+    <img align="center" alt="MySqlWorkbench" width="76px" src="https://img.icons8.com/?size=100&id=hYoELNwniGhi&format=png&color=000000">
+  </a>
+  <a style="margin-left: 10px;" target="_blank" href="https://www.mongodb.com/es">
+
 
 <br>
 
