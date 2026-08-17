@@ -95,7 +95,10 @@
   <a style="margin-left: 10px;" target="_blank" href="https://es.wikipedia.org/wiki/MySQL_Workbench">
     <img align="center" alt="MySqlWorkbench" width="76px" src="https://img.icons8.com/?size=100&id=hYoELNwniGhi&format=png&color=000000">
   </a>
-  <a style="margin-left: 10px;" target="_blank" href="https://www.mongodb.com/es">
+  <a style="margin-left: 10px;"  target="_blank" href="https://www.mongodb.com/es">
+       <img  align="center" alt="Mongo DB"         width="76px" src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=0000000"></a>
+  </a>
+  
 
 </div>
 
