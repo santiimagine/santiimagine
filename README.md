@@ -55,6 +55,14 @@
   <a style="margin-left: 10px;"  target="_blank" href="https://www.microsoft.com/es-es/power-platform/products/power-bi">
        <img  align="center" alt="Power Bi"         width="76px" src="https://img.icons8.com/?size=100&id=70667&format=png&color=000000"></a>
   </a>
+
+	   
+  <a style="margin-left: 10px;"  target="_blank" href="https://eclipseide.org">
+       <img  align="center" alt="Eclipse IDE"        width="76px" src="[https://img.icons8.com/?size=100&id=70667&format=png&color=000000](https://img.icons8.com/?size=100&id=rPAHs7H1vriV&format=png&color=000000)"></a>
+  </a>
+
+
+
   
 </div>
 
