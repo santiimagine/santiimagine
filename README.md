@@ -26,13 +26,13 @@
        <img  align="center" alt="C"         width="76px" src="https://img.icons8.com/?size=100&id=x22MjKn8Z5C7&format=png&color=000000"></a>
   </a>
 
-<a style="margin-left: 10px;"  target="_blank" href="https://es.wikipedia.org/wiki/C_Sharp">
-       <img  align="center" alt="C#"   width="76px"src="https://img.icons8.com/?size=100&id=59966&format=png&color=000000"></a>
+   <a style="margin-left: 10px;"  target="_blank" href="https://es.wikipedia.org/wiki/Java_(lenguaje_de_programación)">
+       <img  align="center" alt="C"         width="76px" src="https://img.icons8.com/?size=100&id=FBycNmdwUQz1&format=png&color=000000"></a>
   </a>
 
 
-  <a style="margin-left: 10px;"  target="_blank" href="https://es.wikipedia.org/wiki/Go_(lenguaje_de_programación)">
-       <img  align="center" alt="GO"     width="76px" src="https://img.icons8.com/?size=100&id=24105&format=png&color=000000"></a>
+  <a style="margin-left: 10px;"  target="_blank" href="https://es.wikipedia.org/wiki/Kotlin_(lenguaje_de_programación)">
+       <img  align="center" alt="GO"     width="76px" src="https://img.icons8.com/?size=100&id=ZoxjA0jZDdFZ&format=png&color=000000"></a>
   </a>
 
 
