@@ -9,7 +9,7 @@
 
 <br>
 
-- 🏫: I am a `Junior`at [Faculty of Computers & Informatics] at [Universidad Nacional de Lanús](https://www.unla.edu.ar)
+- 🏫: I am a `Medium`at [Faculty of Computers & Informatics] at [Universidad Nacional de Lanús](https://www.unla.edu.ar)
 - 👨‍💻: Since I was little I liked testing software to recognize`Problems`
 - 📍: From`Buenos Aires, Argentina`
 - 🤓: Always`Learning New Things`
